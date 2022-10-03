@@ -1,4 +1,5 @@
 #b_uttons
-##buttons
--html 
--css
+
+##buttons technology used
+- HTML
+- CSS
